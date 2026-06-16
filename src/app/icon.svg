@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <rect width="256" height="256" rx="58" fill="#0a0d0c"/>
+  <text x="50%" y="53%" dominant-baseline="central" text-anchor="middle"
+        font-family="Georgia, 'Times New Roman', serif" font-weight="700"
+        font-size="138" letter-spacing="-6" fill="#c6f24e">IR</text>
+  <circle cx="206" cy="180" r="13" fill="#c6f24e"/>
+</svg>
